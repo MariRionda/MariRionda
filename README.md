@@ -1,5 +1,5 @@
 <h2> ¡Bienvenido!, soy Mariana Rionda <img src="https://media1.giphy.com/media/CAIgh8LKFbIciGx5Qe/giphy-preview.webp?cid=95b27944whbvvx43mhjvap0wc32ehpioqad30b74j87qwgax&rid=giphy-preview.webp&ct=s" width="60"></h2>
-<img align='right' src="https://thumbs.dreamstime.com/b/mujer-software-developer-flat-concept-vector-ilustraci%C3%B3n-desarrollo-de-concepto-plano-vectorial-sitio-web-codificaci%C3%B3n-en-el-216791710.jpg" width="160"
+<img align='right' src="https://res.cloudinary.com/dk2al2urj/image/upload/v1661371056/MyPortfolio/Mari_actitud_chica_jsztp6.png" width="100"
  
 <div>
 <p><em>Full Stack Web Developer, recibida en <a href="https://www.soyhenry.com">Soy Henry</a></br> 
@@ -17,7 +17,7 @@ Sobre mi...
 <p style=color:red> Tecnologias: <p/>
 
   
-  <img style="color:red" src="https://lh3.googleusercontent.com/pw/AL9nZEUnPwEHuGE5My1ci6N-49b83ef6FU548xK-z9ixsfWU-pzBwVn4mP3XZUKTNZfA0Ml_bB7NmFSXFSWl6rW7hkaDq8wdU5OLHvSynK4Iz0PylSKpOClctAPdhBwuYKpwQlpGA1TZMcU7poI_7mdxo_I_=w1329-h152-no?authuser=0" width="1000">
+  <img src="https://res.cloudinary.com/dk2al2urj/image/upload/v1661372047/MyPortfolio/technologies_w4lgol.png" width="1000">
  
 ---------------
 
