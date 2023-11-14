@@ -2,7 +2,7 @@
 <img align='right' src="https://res.cloudinary.com/dk2al2urj/image/upload/v1661371056/MyPortfolio/Mari_actitud_chica_jsztp6.png" width="100"
  
 <div>
-<p><em>Full Stack Web Developer, recibida en <a href="https://www.soyhenry.com">Soy Henry</a></br> 
+<p><em>Full Stack Web Developer</br> 
 </em></p>
 
 <div/>
